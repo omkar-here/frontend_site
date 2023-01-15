@@ -1,0 +1,30 @@
+.container{
+    
+    display: grid;
+    grid-template-columns: 408px 408px 408px  ;
+    grid-template-rows: 88px 88px 88px 88px;
+    grid-column-gap: 26px;
+    grid-row-gap:33px;
+    
+    /* align-items: center; */
+    padding-top:36px
+    
+}
+.card{
+        background: #FFFFFF;
+        box-shadow: 0px 3px 12px rgba(75, 75, 75, 0.08);
+        border-radius: 8px;
+        padding: 16px 24px;
+}
+.earn{
+    height: 384px;
+    display: block;
+    background-color: #F3F3F3;
+    padding:0px 80px;
+}
+.text{
+    
+    display: block;
+    padding-top: 56px;
+    font-size: 26px;
+}

@@ -1,0 +1,26 @@
+.add_btn{
+    width: 50px;
+height: 50px;   
+background: #F5F5F5;
+border-radius: 80%;
+font-size: xx-large;
+font-weight: bold;
+color:#f00;
+margin-right: 8px;
+}
+.line_1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+}
+.line_2{
+    font-style: normal;
+font-weight: 700;
+font-size: 26px;
+}
+.pg{
+    padding: 0 80px;
+    background-color: white;
+    display: block;
+    margin-top: 150px;
+}

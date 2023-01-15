@@ -1,0 +1,41 @@
+.skill{
+    display: block;
+    background-color:  #0E3B65;
+    text-align: center;
+    min-height: 185px;
+    height: 100%;
+}
+.tilesss{
+    background-color:  #0E3B65;
+    display: grid;
+    grid-template-columns: repeat(2,424px);
+    grid-template-rows: repeat(3,78px);
+    grid-column-gap: 122px;
+    grid-row-gap: 64px;
+    justify-content: center;
+    padding-bottom: 39px;
+   
+}
+.tileee{
+    background-color:  #0E3B65;
+    display: flex;
+    width: 424px;
+    height: 78px;
+    /* color: white; */
+   
+}
+.tile-text{
+    background-color:  #0E3B65;
+    font-size:15px;
+    color: #E8E8E8;
+}
+.img{
+    width: 39px;
+    height: 39px;
+}
+.img-sec{
+    padding-right: 37px;
+}
+.pg{
+    background-color:  #0E3B65;
+}

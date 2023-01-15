@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Manrope&display=swap');
+
+
+.ad-title{
+font-family: 'Manrope';
+font-style: normal;
+font-weight: bold;
+font-size: 2.25rem;
+line-height: 139%;
+}
+.ad-content{
+padding: 0px;
+font-weight: lighter;
+font-size: 14 px;
+max-width: 715px;
+height: 84px;   
+letter-spacing: -0.03em;
+margin-bottom: 15px;
+}
+.ad-pts{
+    margin: 0;
+padding: 0;
+}
+.ad-pts > li{
+    list-style: none;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 139%;
+letter-spacing: -0.03em;
+
+}
+.ad-pts > li > img{
+    padding-right: 8px;
+}
+.ad-nav{
+    padding-top: 1rem;
+    display: flex;
+}
+.ad-nav > li{
+    list-style: none;
+    padding-right: 5px;
+    color: #D2D2D2;
+}
+.scrum{
+    color:#9A9A9A;
+}
+.ad-img{
+    width: 737.61px;
+    height: 100px;
+}
+.btn--tag{
+    width: 151px;
+height: 26px;
+
+background: #ECECEC;
+border-radius: 4px;
+padding: 2px 6px;
+margin-right: 12px;
+}
+.btn--best_seller{
+    margin-right: 5px ;
+    padding: 6px;
+gap: 10px;
+
+width: 90px;
+height: 27px;
+
+background: #EEC65E;
+border-radius: 4px;
+}
+.ad_video{
+    width: 391px;
+    height: 239px;
+}
+.labels{
+    width: 362px;
+    height: 61px;
+}
+.sch-btn{
+    gap: 10px;
+
+width: 171px;
+height: 46px;
+margin-bottom: 4px;
+}
+.sch-box{
+    background-color: #F4FDF8;
+    ;
+    font-weight: 500;
+font-size: 14px;
+line-height: 139%;
+letter-spacing: -0.03em;
+width: 333px;
+height: 79px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+}
+.labels{
+    margin-bottom: 66px;
+}
+.sch-box{
+    margin-top: 16px;
+}
+.row2{
+    margin-top: 8px;
+}
+.row1{
+    margin-top: 8px;
+}
+.ad{
+    display: flex;
+    
+    padding-left:5rem;
+    padding-right: 5rem;
+    
+}
+.ad-left{
+    padding-right: 6.688rem;
+}

@@ -1,0 +1,99 @@
+
+.Info-card{
+    display: flex;
+    flex-direction: column;
+}
+.Info-card .heading{
+    display: flex;
+    margin-bottom: 28px;
+}
+.Info-card .heading img{
+    margin-right: 14px;
+}
+.Info-card .heading .info-card-title{
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 600;
+}
+.Info-card .info-card-list{
+    list-style: none;
+    padding: 0px;
+}
+.Info-card .info-card-list .info-card-li{
+    display: flex;
+    margin-bottom: 19px;
+    align-items: center;
+}
+.Info-card .info-card-list .info-card-li img , .Info-card .info-card-list .info-card-li h4{
+    margin-right: 8px;
+}
+.info-footer {
+    display: flex;
+}
+.info-footer .section-left .Info-card{
+    background-color:  #1C466D;
+    padding: 60px 145px 43px 109px;
+}
+.info-footer  .section-right .Info-card{
+    background-color: #FFEEDA;
+    padding: 60px 145px 43px 109px;
+}
+.info-footer  .section-right {
+    background-color: #FFEEDA;
+    width: 100%;
+    position: relative;
+}
+
+.feedback-form{
+    background-color: #fff;
+    border-radius: 4px;
+    position: absolute;
+    right: 35px;
+    top: -150px;
+}
+.feedback-form .form-title{
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 9px 88px ;
+    position: relative;
+    border-radius: 4px;
+}
+.feedback-form .form-title img{
+    position: absolute;
+    right: 17px;
+}
+.feedback-form .form-title p{
+    color: #fff;
+    margin: 0px;
+}
+.feedback-form .form-section{
+    padding: 15px 45px 28px 45px;
+    text-align: center;
+}
+.feedback-form .form-section p{
+    color: #000;
+    font-size: 14px;
+    line-height: 19px;
+    margin-bottom: 6px;
+    font-weight: 500;
+}
+.feedback-form .form-section .red{
+    color: #FB614C;
+    font-size: 12px;
+    line-height: 17px;
+    margin-bottom:20px;
+}
+.feedback-form .form-section form input{
+    margin-bottom: 20px;
+}
+.feedback-form .form-section form .btn {
+    width: 100%;
+    background-color: #FB614C;
+    font-size: 15px;
+    line-height: 18px;
+    border: none;
+    padding: 6px 0px;
+    margin-top: 20px;
+}

@@ -1,0 +1,26 @@
+.topic{
+    display: block;
+    width: 90rem;
+    background-color: white;
+}
+.img{
+    width: 51px;
+height: 56px;
+}
+.tiless_topic{
+    background-color: white;
+    display: grid;
+    grid-template-columns: repeat(3,226px);
+    grid-template-rows:repeat(2,148px);
+    grid-column-gap:24px ;
+    grid-row-gap: 23px;
+    justify-content: center;
+}
+.tilee_topic{
+    background: #FFFFFF;
+border: 1px solid #D2D2D2;
+/* accentued-drop-shadow */
+
+box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+border-radius: 8px;
+}

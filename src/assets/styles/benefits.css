@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+}
+.bene_page{
+    display: block;
+    background-color:  #FFF9F1;
+}
+.benefits{
+    width: 1440px;
+    height: 375px;
+   
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 80px;
+    /* align-items: center; */
+}
+.btn{
+        width: 24px;
+        height: 24px; 
+        max-width: 24px;
+        max-height: 24px;   
+        border-radius: 6.54545px;
+        
+}
+.tags{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+.tags > div> li{
+    display: flex;
+}
+.btn-1{
+    background-color: #4F7CAA;
+}
+.btn-2{
+    background-color: #14A0C1;
+}
+.btn-3{
+    background-color: #5059AC;
+}
+
+.btn-4{
+    background-color: #FB5741;
+}
+.btn-5{
+    background-color: #FB5741;
+}
+.btn-6{
+    background-color: #00CD99;
+}
+.col1{
+    margin-right: 3rem;
+}
+.col2{
+    margin-right: 3rem;
+}
+.col3{
+    margin-right: 3rem;
+}
+.imgg{
+    width: 358px;
+    height: 333px;
+    /* float: right ; */
+    
+}

@@ -1,0 +1,37 @@
+.btn{
+    width: 24px;
+    height: 24px; 
+    max-width: 24px;
+    max-height: 24px;   
+    border-radius: 6.54545px;
+    background-color: #f00;
+    margin-right: 2px;
+}
+.points >li{
+    list-style: none;
+  
+}
+.points >li >div{
+    color:white;
+    /* text-align: center; */
+    padding: 1px;
+  
+}
+.right{
+    padding-top:40px;
+    /* float: right; */
+    width: 443px;
+height: 228px;
+
+}
+.steps{
+    width: 1440px;
+height: 308px;
+display: flex;
+align-items: center;
+}
+.imggg{
+    margin-right: 145px;
+    height: 228px;
+    margin-top: 0;
+}
